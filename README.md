@@ -19,8 +19,8 @@
 
 <!-- STATS SECTION: Fixed height alignment and updated usernames -->
 <a href="https://github.com/marcius-llmus">
-    <img height="180" src="https://github-stats-alpha.vercel.app/api?username=marcius-llmus&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="Marcius Stats">
-    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marcius-llmus&layout=compact&langs_count=8&theme=algolia" alt="Marcius Top Langs"/>
+    <img height="190" src="https://github-stats-alpha.vercel.app/api?username=marcius-llmus&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="Marcius Stats">
+    <img height="190" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marcius-llmus&layout=compact&langs_count=8&theme=algolia" alt="Marcius Top Langs"/>
 </a>
 
 👋 &nbsp;Hi! I am Marcio!<br/>
