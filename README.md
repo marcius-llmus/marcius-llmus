@@ -28,7 +28,6 @@
 🌱 &nbsp;I think that **AI** can help you code, but it *should not* code for you.<br/>
 🛰️ &nbsp;I am looking to collaborate on open-source AI projects.<br/>
 💭 &nbsp;I am looking for ways to use AI to create awesome tools that will help others!<br/>
-✉️ &nbsp;[Email me](mailto:asyncmarcio@gmail.com)! Feel free to reach out.<br/>
 📄 &nbsp;Find me on [LinkedIn](https://www.linkedin.com/in/marcio-c-01432238a/).<br/>
 
 <br/>
